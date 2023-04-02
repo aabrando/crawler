@@ -1,0 +1,511 @@
+
+2022-06-21 23:21:28 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class CrawlController could not be found.
+Referral: /crawl/webroot/index.php/crawl/movies/class:CrawlController
+2022-06-22 22:40:18 Error: 
+File: /var/www/html/crawl/View/Grabbers/movie.ctp
+Line no: 25
+Message: Class 'SafeEncryption' not found
+Referral: /crawl/grabbers/r1
+2022-06-22 23:49:47 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 69
+Message: Call to a member function fromHost() on null
+Referral: /crawl/movies/watch/R1/NKM5cFIppSBv6p_0bFeslUykS_o4Y0nLgm3uE5bAuSuj7bRnLGEsvz4DEyflLzcaOQpIm4_Fl0YEi4UVJuENcnW4qHRxiUJDdL4oKTiRXsYwujTmFT_wD4mV-Kd_el1k
+2022-06-23 00:05:13 Error: 
+File: /var/www/lib/Cake/Model/Datasource/DboSource.php
+Line no: 502
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Part.kind_id' in 'where clause'
+Referral: /crawl/movies/r1
+2022-06-23 18:46:14 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::r2() could not be found.
+Referral: /crawl/movies/r2
+2022-06-23 19:17:14 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::r2() could not be found.
+Referral: /crawl/movies/r2
+2022-06-24 09:41:57 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::index() could not be found.
+Referral: /crawl/movies
+2022-06-24 14:05:09 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 16
+Message: Too few arguments to function MoviesController::index(), 0 passed and exactly 1 expected
+Referral: /crawl/movies
+2022-06-24 14:05:27 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::r2() could not be found.
+Referral: /crawl/movies/r2
+2022-06-24 14:23:29 Error: 
+File: /var/www/html/crawl/View/Movies/watch.ctp
+Line no: 25
+Message: Function name must be a string
+Referral: /crawl/movies/watch/R2/1KUmSD1J-707nrXSNtxH5lh1JfdLPgR7F9gbOHYZIwvevSA6dHQW1paM85SXsBjDGgGHvtSkMS3kQwEOvXAvPw
+2022-06-24 14:49:02 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::R2() could not be found.
+Referral: /crawl/movies/R2
+2022-07-13 00:37:25 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::r2() could not be found.
+Referral: /crawl/movies/r2
+2022-07-21 21:10:02 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialController could not be found.
+Referral: /crawl/tutorial/index/class:TutorialController
+2022-07-21 21:10:05 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialsController could not be found.
+Referral: /crawl/tutorials/index/class:TutorialsController
+2022-07-22 08:45:22 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action GrabbersController::index() could not be found.
+Referral: /crawl/grabbers
+2022-07-22 08:45:45 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Grabbers/host.ctp" is missing.
+Referral: /crawl/grabbers/host/file:Grabbers%2Fhost.ctp
+2022-07-22 08:47:11 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action GrabbersController::r2() could not be found.
+Referral: /crawl/grabbers/r2
+2022-07-22 08:47:19 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Grabbers/host.ctp" is missing.
+Referral: /crawl/grabbers/host/file:Grabbers%2Fhost.ctp
+2022-07-22 08:47:23 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Grabbers/host.ctp" is missing.
+Referral: /crawl/grabbers/host/file:Grabbers%2Fhost.ctp
+2022-07-22 08:49:33 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Grabbers/host.ctp" is missing.
+Referral: /crawl/grabbers/host/file:Grabbers%2Fhost.ctp
+2022-07-22 08:49:34 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Grabbers/host.ctp" is missing.
+Referral: /crawl/grabbers/host/file:Grabbers%2Fhost.ctp
+2022-07-22 08:49:44 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class HostController could not be found.
+Referral: /crawl/host/r1/class:HostController
+2022-07-22 08:49:51 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class GrabberController could not be found.
+Referral: /crawl/grabber/r1/class:GrabberController
+2022-07-27 13:20:52 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Movies/host_not_found.ctp" is missing.
+Referral: /crawl/movies/host/file:Movies%2Fhost_not_found.ctp
+2022-07-27 13:22:14 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Movies/host_not_found.ctp" is missing.
+Referral: /crawl/movies/host/file:Movies%2Fhost_not_found.ctp
+2022-07-27 13:22:14 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Movies/host_not_found.ctp" is missing.
+Referral: /crawl/movies/host/file:Movies%2Fhost_not_found.ctp
+2022-07-27 13:29:36 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Movies/host_not_found.ctp" is missing.
+Referral: /crawl/movies/host/file:Movies%2Fhost_not_found.ctp
+2022-07-27 13:51:14 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class HostController could not be found.
+Referral: /crawl/host/index/class:HostController
+2022-07-27 13:54:31 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Host/index.ctp" is missing.
+Referral: /crawl/host/index/file:Host%2Findex.ctp
+2022-07-27 14:04:33 Error: 
+File: /var/www/html/crawl/Controller/HostController.php
+Line no: 18
+Message: Call to a member function paginate() on null
+Referral: /crawl/host
+2022-07-27 14:04:54 Error: 
+File: /var/www/html/crawl/View/Host/index.ctp
+Line no: 24
+Message: syntax error, unexpected ')'
+Referral: /crawl/host
+2022-07-27 14:05:58 Error: 
+File: /var/www/html/crawl/Controller/HostController.php
+Line no: 19
+Message: Call to a member function paginate() on null
+Referral: /crawl/host
+2022-07-27 14:06:09 Error: 
+File: /var/www/html/crawl/View/Host/index.ctp
+Line no: 24
+Message: syntax error, unexpected ')'
+Referral: /crawl/host
+2022-07-27 14:11:20 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action HostController::add() could not be found.
+Referral: /crawl/host/add
+2022-07-27 14:20:12 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class HostsController could not be found.
+Referral: /crawl/hosts/index/class:HostsController
+2022-07-27 14:38:44 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class HostsController could not be found.
+Referral: /crawl/hosts/index/class:HostsController
+2022-07-27 14:44:42 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action HostController::r2() could not be found.
+Referral: /crawl/host/r2
+2022-07-27 14:44:54 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::R2() could not be found.
+Referral: /crawl/movies/R2
+2022-07-27 14:45:17 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 23
+Message: Too few arguments to function MoviesController::host(), 0 passed and exactly 1 expected
+Referral: /crawl/movies/host/
+2022-07-27 14:46:05 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 22
+Message: syntax error, unexpected '}', expecting ';'
+Referral: /crawl/movies
+2022-07-27 16:25:44 Error: 
+File: /var/www/html/crawl/Controller/HostController.php
+Line no: 27
+Message: syntax error, unexpected ':'
+Referral: /crawl/host/add
+2022-07-27 16:26:30 Error: 
+File: /var/www/html/crawl/Controller/HostController.php
+Line no: 27
+Message: syntax error, unexpected ':'
+Referral: /crawl/host/add
+2022-07-27 16:50:31 Error: 
+File: /var/www/lib/Cake/Model/Datasource/DboSource.php
+Line no: 502
+Message: SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in order clause is ambiguous
+Referral: /crawl/host
+2023-02-14 20:08:33 Error: 
+File: /var/www/html/crawl/Controller/PagesController.php
+Line no: 6
+Message: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+Referral: /crawl/
+2023-02-14 20:14:29 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialsController could not be found.
+Referral: /crawl/tutorials/index/class:TutorialsController
+2023-02-14 20:27:05 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialsController could not be found.
+Referral: /crawl/tutorials/index/class:TutorialsController
+2023-02-14 20:27:23 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialsController could not be found.
+Referral: /crawl/tutorials/index/class:TutorialsController
+2023-02-14 20:27:25 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialsController could not be found.
+Referral: /crawl/tutorials/index/class:TutorialsController
+2023-02-14 20:34:17 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TutorialsController could not be found.
+Referral: /crawl/tutorials/index/class:TutorialsController
+2023-02-14 20:37:22 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 23
+Message: Call to a member function paginate() on null
+Referral: /crawl/movies
+2023-02-14 20:40:57 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 16
+Message: Call to a member function paginate() on null
+Referral: /crawl/tutorials
+2023-02-14 21:04:15 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 53
+Message: Class 'Crawler' not found
+Referral: /crawl/tutorials/host/FCO
+2023-02-14 21:05:05 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Tutorials/movie.ctp" is missing.
+Referral: /crawl/tutorials/host/file:Tutorials%2Fmovie.ctp
+2023-02-14 21:08:43 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action TutorialsController::detail() could not be found.
+Referral: /crawl/tutorials/detail
+2023-02-14 21:37:05 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action TutorialsController::detail() could not be found.
+Referral: /crawl/tutorials/detail
+2023-02-15 09:46:56 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action TutorialsController::add() could not be found.
+Referral: /crawl/tutorials/add
+2023-02-15 09:47:39 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action TutorialsController::add() could not be found.
+Referral: /crawl/tutorials/add
+2023-02-15 09:47:45 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action TutorialsController::add() could not be found.
+Referral: /crawl/tutorials/add
+2023-02-15 10:59:43 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 69
+Message: Call to a member function create() on null
+Referral: /crawl/tutorials/add
+2023-02-15 11:00:22 Error: 
+File: /var/www/lib/Cake/Model/Datasource/DboSource.php
+Line no: 502
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'field list'
+Referral: /crawl/tutorials/add
+2023-02-17 20:13:56 Error: 
+File: /var/www/html/crawl/View/Tutorials/index.ctp
+Line no: 38
+Message: syntax error, unexpected '<'
+Referral: /crawl/tutorials
+2023-02-17 20:20:08 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action TutorialsController::edit() could not be found.
+Referral: /crawl/tutorials/edit
+2023-02-17 20:24:04 Error: 
+File: /var/www/html/crawl/View/Tutorials/edit.ctp
+Line no: 26
+Message: syntax error, unexpected '<', expecting end of file
+Referral: /crawl/tutorials/edit/4
+2023-02-17 22:27:30 Error: 
+File: /var/www/html/crawl/Controller/Component/CrawlComponent.php
+Line no: 48
+Message: syntax error, unexpected ','
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:17:38 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:17:54 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:18:08 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:18:38 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:18:40 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:19:21 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:19:34 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:19:43 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:20:32 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 33
+Message: syntax error, unexpected '=', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:39:09 Error: 
+File: /var/www/html/crawl/Lib/Parser/LmntParser.php
+Line no: 7
+Message: Argument 1 passed to LmntParser::__construct() must be an instance of Crawler, instance of simple_html_dom given, called in /var/www/html/crawl/Lib/Parser/DomDcw.php on line 49
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:40:39 Error: 
+File: /var/www/html/crawl/Lib/Parser/LmntParser.php
+Line no: 14
+Message: Call to undefined method Crawler::find()
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:41:17 Error: 
+File: /var/www/html/crawl/Lib/Parser/LmntParser.php
+Line no: 14
+Message: Call to undefined method Crawler::find()
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:41:32 Error: 
+File: /var/www/html/crawl/Lib/Parser/LmntParser.php
+Line no: 14
+Message: Call to undefined method Crawler::find()
+Referral: /crawl/tutorials/host/DCW
+2023-02-17 23:45:06 Error: 
+File: /var/www/html/crawl/Lib/Parser/LmntParser.php
+Line no: 14
+Message: Call to undefined method Crawler::find()
+Referral: /crawl/tutorials/host/DCW
+2023-02-18 00:03:21 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 50
+Message: Call to undefined method LmntParser::parseElement2()
+Referral: /crawl/tutorials/host/DCW
+2023-02-18 00:09:45 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 38
+Message: syntax error, unexpected ')'
+Referral: /crawl/tutorials/host/DCW
+2023-02-18 00:10:15 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 38
+Message: syntax error, unexpected ')'
+Referral: /crawl/tutorials/host/DCW
+2023-02-18 00:10:35 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 38
+Message: syntax error, unexpected ')'
+Referral: /crawl/tutorials/host/DCW
+2023-02-18 00:10:41 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 38
+Message: syntax error, unexpected ')'
+Referral: /crawl/tutorials/host/DCW
+2023-02-18 06:19:14 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 64
+Message: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ')'
+Referral: /crawl/tutorials/detail/DCW/if9kBOeBk6zkosohumT-F_2tWru47OPUCt6vfoxzIpycsQLLlQwq7Hsk8pTeqwCnMqK3cE5Nh9M9POI_mgiJZSQ1rzAnQkObH6SZzxOdlRvE0vp-e5wnx1yZGKNIV3Ij
+2023-02-18 06:19:30 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 64
+Message: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ')'
+Referral: /crawl/tutorials/detail/DCW/if9kBOeBk6zkosohumT-F_2tWru47OPUCt6vfoxzIpycsQLLlQwq7Hsk8pTeqwCnMqK3cE5Nh9M9POI_mgiJZSQ1rzAnQkObH6SZzxOdlRvE0vp-e5wnx1yZGKNIV3Ij
+2023-02-18 06:19:46 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 64
+Message: syntax error, unexpected '->' (T_OBJECT_OPERATOR), expecting ',' or ')'
+Referral: /crawl/tutorials/detail/DCW/if9kBOeBk6zkosohumT-F_2tWru47OPUCt6vfoxzIpycsQLLlQwq7Hsk8pTeqwCnMqK3cE5Nh9M9POI_mgiJZSQ1rzAnQkObH6SZzxOdlRvE0vp-e5wnx1yZGKNIV3Ij
+2023-02-18 06:51:28 Error: 
+File: /var/www/html/crawl/Lib/Parser/DomDcw.php
+Line no: 73
+Message: syntax error, unexpected '}', expecting ',' or ')'
+Referral: /crawl/tutorials/detail/DCW/if9kBOeBk6zkosohumT-F_2tWru47OPUCt6vfoxzIpycsQLLlQwq7Hsk8pTeqwCnMqK3cE5Nh9M9POI_mgiJZSQ1rzAnQkObH6SZzxOdlRvE0vp-e5wnx1yZGKNIV3Ij
+2023-02-18 07:13:29 Error: 
+File: /var/www/html/crawl/Controller/Component/CrawlComponent.php
+Line no: 60
+Message: Cannot access protected property DomDcw::$view_page
+Referral: /crawl/tutorials/detail/DCW/if9kBOeBk6zkosohumT-F_2tWru47OPUCt6vfoxzIpycsQLLlQwq7Hsk8pTeqwCnMqK3cE5Nh9M9POI_mgiJZSQ1rzAnQkObH6SZzxOdlRvE0vp-e5wnx1yZGKNIV3Ij
+2023-02-18 07:13:53 Error: 
+File: /var/www/lib/Cake/View/View.php
+Line no: 1031
+Message: View file "Tutorials/detail_dcw.ctp" is missing.
+Referral: /crawl/tutorials/detail/file:Tutorials%2Fdetail_dcw.ctp
+2023-02-18 10:25:42 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::add() could not be found.
+Referral: /crawl/movies/add
+2023-02-18 10:25:47 Error: 
+File: /var/www/lib/Cake/Controller/Controller.php
+Line no: 505
+Message: Action MoviesController::add() could not be found.
+Referral: /crawl/movies/add
+2023-02-18 11:35:01 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 140
+Message: syntax error, unexpected '$v' (T_VARIABLE)
+Referral: /crawl/movies/edit/1
+2023-02-18 11:35:16 Error: 
+File: /var/www/html/crawl/Controller/MoviesController.php
+Line no: 140
+Message: syntax error, unexpected '$v' (T_VARIABLE)
+Referral: /crawl/movies/edit/1
+2023-02-18 11:44:30 Error: 
+File: /var/www/lib/Cake/Model/Datasource/DboSource.php
+Line no: 502
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Host.1' in 'field list'
+Referral: /crawl/movies/edit/1
+2023-02-18 11:44:48 Error: 
+File: /var/www/lib/Cake/Model/Datasource/DboSource.php
+Line no: 502
+Message: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Host.1' in 'field list'
+Referral: /crawl/movies/edit/1
+2023-02-24 10:59:16 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TorrentsController could not be found.
+Referral: /crawl/torrents/index/class:TorrentsController
+2023-02-24 10:59:23 Error: 
+File: /var/www/lib/Cake/Routing/Dispatcher.php
+Line no: 161
+Message: Controller class TorrentController could not be found.
+Referral: /crawl/torrent/index/class:TorrentController
+2023-03-01 17:25:02 Error: 
+File: /var/www/html/crawl/Controller/TutorialsController.php
+Line no: 125
+Message: Call to a member function deleteAll() on null
+Referral: /crawl/tutorials/edit/13
+2023-03-04 00:39:55 Error: 
+File: /var/www/html/crawl/Controller/Component/CrawlComponent.php
+Line no: 40
+Message: syntax error, unexpected '$host' (T_VARIABLE)
+Referral: /crawl/movies/watch/Soap2day/e22BAWrbRjwyQYfRjONgQoiuLy5e6XlHbOYNqV0zmQw
+2023-03-04 13:22:44 Error: 
+File: /var/www/html/crawl/Controller/Component/CrawlComponent.php
+Line no: 40
+Message: syntax error, unexpected ')'
+Referral: /crawl/tutorials/detail/FCO/aXXUZZ-8hfPKEEus2DnfSoaKqm9ADtHdpjzSk7bSM8g3NBQyUX-mGZp35RPTy2yAYGdqnfDeOxc8Re44xM5e8cwVy5aM10voF6z3gx7TdPx9MTgBdsON39-5O-DrePCa
+2023-03-04 13:25:41 Error: 
+File: /var/www/lib/Cake/View/HelperCollection.php
+Line no: 131
+Message: Helper class referrerHelper could not be found.
+Referral: /crawl/tutorials/detail/class:referrerHelper
+2023-03-04 13:25:50 Error: 
+File: /var/www/html/crawl/View/Tutorials/detail.ctp
+Line no: 15
+Message: Call to undefined method View::referrer()
+Referral: /crawl/tutorials/detail/FCO/aXXUZZ-8hfPKEEus2DnfSoaKqm9ADtHdpjzSk7bSM8g3NBQyUX-mGZp35RPTy2yAYGdqnfDeOxc8Re44xM5e8cwVy5aM10voF6z3gx7TdPx9MTgBdsON39-5O-DrePCa
